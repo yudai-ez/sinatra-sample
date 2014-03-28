@@ -2,4 +2,4 @@ $:.unshift(File.dirname(__FILE__))
 
 require "app"
 
-run Sample
+run App 
